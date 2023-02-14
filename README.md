@@ -3,7 +3,7 @@
 
 1. Data source
 Data used for analyze and visualization come from:
-- [General statistics office of Vietnam](https://www.gso.gov.vn/en/homepage/)
+- [General Statistics Office of Vietnam](https://www.gso.gov.vn/en/homepage/)
 - [Open Development Mekong](https://data.opendevelopmentmekong.net/dataset/)
 - [World Bank Data](https://data.worldbank.org/)
 
