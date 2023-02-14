@@ -1,4 +1,4 @@
-# Geography and Socioeconomic status of Vietnam
+# Geography and Socioeconomic Status of Vietnam
 
 
 1. Data source
